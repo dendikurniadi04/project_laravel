@@ -8,7 +8,7 @@
 							<img src='../foto_banner/foto.jpg' class='img-circle' alt='Yanti' />
                         </div>
                         <div class='pull-left info'>
-                            <p>Hello, Yanti</p>
+                            <p>Hello, Dendi Kurniadi</p>
 
                             <a href='#'><i class='fa fa-circle text-success'></i> Online</a>
                         </div>
