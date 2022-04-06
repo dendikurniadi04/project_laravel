@@ -51,9 +51,9 @@
 				</li><li>
 					<a href='?module=CSS Colors'><i class='fa fa-angle-double-right'></i> CSS Colors</a>
 				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
+					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Borders</a>
 				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
+					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Margins</a>
 				</li><li>
 					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
 				</li><li>
